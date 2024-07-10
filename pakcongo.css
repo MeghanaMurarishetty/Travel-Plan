@@ -1,0 +1,28 @@
+<html>
+    <head>
+<style>
+     body{
+      background-image: url('https://images.unsplash.com/32/Mc8kW4x9Q3aRR3RkP5Im_IMG_4417.jpg?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTV8fGJhY2tncm91bmQlMjBpbWFnZXxlbnwwfHx8fDE2OTQ1MzM5NjN8MA&ixlib=rb-4.0.3');
+      background-repeat: no-repeat;
+      background-size: 100%;
+    }
+      h1{
+        text-align: center;
+        color: aliceblue;
+        margin-top: 200px;
+        font-size:50px;
+       
+      }
+      h4{
+        text-align: center;
+        color: rgb(7, 158, 75);
+        font-family: cursive;
+      }
+</style>
+    </head>
+    <body>
+        <h1 >Congratulations!!!</h1>
+        
+        <h4>Your room is booked Successfully</h4>
+    </body>
+

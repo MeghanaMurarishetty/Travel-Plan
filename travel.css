@@ -1,0 +1,18 @@
+body{
+  background-image: url("https://i0.wp.com/www.psychreg.org/wp-content/uploads/2018/05/three-people-travelling.jpg?fit=626%2C417&ssl=1");
+  background-repeat: no-repeat;
+  background-size: 100% 130%;
+  color:white;
+  font-weight: bold;
+} 
+h1{
+  color:black;
+  font-size:  60px;
+}
+h2{
+  color: whitesmoke;
+  font-family:cursive;
+}
+h3{
+  color:whitesmoke;
+}
